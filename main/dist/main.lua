@@ -1,3 +1,8 @@
+--[[
+   Hi, Skidders! Good 4 U Its Open Source.
+   @mizcanscripts
+]]
+
 local TweenService = game:GetService("TweenService")
 local UserInputService = game:GetService("UserInputService")
 local GuiService = game:GetService("GuiService")
